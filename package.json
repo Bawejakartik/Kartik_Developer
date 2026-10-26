@@ -15,11 +15,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
-<<<<<<< HEAD
     "vite": "^8.3.5"
-=======
-    "vite": "^5.4.1"
->>>>>>> origin/main
   },
   "description": "Same design, same content, same animations as the plain HTML version — just rebuilt as a componentized React app so it's easier to maintain and extend.",
   "main": "vite.config.js",
