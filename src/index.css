@@ -260,6 +260,9 @@ html.dark .icon-moon { display: block; }
   object-fit: cover;
   object-position: center 25%;
   display: block;
+.avatar-frame {
+  flex: 1; display: grid; place-items: center;
+  background: linear-gradient(160deg, var(--secondary), var(--surface));
 }
 .avatar-initial {
   font-family: var(--font-display); font-weight: 800;
